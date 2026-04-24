@@ -4,6 +4,10 @@
 - [What Is AIOps? AIOps Explained](http://www.bmc.com/blogs/what-is-aiops/)
 - [What You Need to Know about AIOps](https://www.moogsoft.com/blog/aiops/know-aiops/)
 
+## Tools
+
+* [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard for AI-guided operations, anomaly detection, and real-time observability across hybrid cloud and edge environments. CNCF Sandbox project.
+
 ## Awesome related lists
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Awesome Bots](https://github.com/hackerkid/bots) - Curated list of resources on building bots
